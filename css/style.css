@@ -1,0 +1,85 @@
+*{ 
+
+margin:  0;
+padding: 0;
+
+ }
+
+ #first 
+
+ { /*background-image: url(../images/facebook.png);*/
+ 	background-color: blue;
+ 	color: white;
+ 	
+ }
+
+#headertext { 
+
+float: right;
+margin-right: 270px;
+
+  }
+
+  #second{ 
+  	text-align: center;
+  	border-bottom: 5px solid gray;
+  	padding-bottom: 19px
+   }
+
+   #third { 
+
+padding-top: 19px;
+
+    }
+   #logo{ 
+     
+     margin-right: 470px;
+
+    }
+
+    .jumbotron {
+	padding-left: 1em;
+	padding-right: 1em;
+	max-width: 50%;
+	margin-left: 470px;
+
+
+}
+
+#link{ 
+
+margin-left: 470px;
+
+ }
+
+
+#yo { 
+
+float: right;
+
+margin-top: -30px;
+margin-right: 330px;
+
+ }
+
+h1 { 
+
+padding-left: 470px;
+
+ }
+
+ #fourth { 
+
+text-align: center;
+
+
+  }
+
+ 
+ #help { 
+
+
+margin-right: 130px;
+
+
+   }
